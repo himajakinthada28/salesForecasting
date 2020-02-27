@@ -1,2 +1,2 @@
 # salesForecasting
-This  project is about to forecast the next 1 year forecasting on the product specified 
+This  project is to make the next 1 year forecasting on the products specified 
